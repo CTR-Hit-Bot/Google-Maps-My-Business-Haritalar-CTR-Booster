@@ -169,4 +169,4 @@ Harita sıralamalarını ölçekli olarak yöneten ajanslar için üretilmiştir
 
 ---
 
-© 2025 CTRHitBot Automation Solutions. All rights reserved.
+© 2026 CTRHitBot Automation Solutions. All rights reserved.
